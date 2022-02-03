@@ -1,3 +1,26 @@
-                                   CKAD exam preparation
+                                        ### Kubectl  commands  quick refrence ###
+                                        
+          Kubectl basic commands: Kubectl command line tool helps to interact with Kubernetes cluster.
+            
+          Kubectl installation:  https://kubernetes.io/docs/tasks/tools/ 
+            
+                Steps to in install 
+                Always plan to to install stable version 
+                Check latest stable verion in browser  =>   https://dl.k8s.io/release/stable.txt ( Copy the output to use later)
+                
+           Kubectl Syntax and usuage  
+           
+           
+           
+           Kubernetes cluster on local system:
+           Minikube 
+           Dockerdesktop
+           
+                 
+                 
+             
+               
+            
+                  
+                                        
 
-          Helpful resources and tips to pepare CKAD Exam
